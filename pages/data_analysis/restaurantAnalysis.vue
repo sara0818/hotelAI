@@ -20,7 +20,7 @@
                 <a-card :bordered="false" style="height: 200px">
                   <span class="sellhead">入住总人数</span><br>
                   <span class="totalsell">8,846</span><br>
-                  <div id="main1" style="height: 60px;width: 200px"></div>
+                  <div id="main1" style="height: 70%;width: 100%"></div>
                   <span class="sellhead">日入住人数</span>&nbsp;&nbsp;<span class="sellhead">1,234</span>
                 </a-card>
               </a-col>
@@ -28,7 +28,7 @@
                 <a-card :bordered="false"  style="height: 200px">
                   <span class="sellhead">用餐高峰期</span><br>
                   <span class="totalsell">11：00~14：00</span><br>
-                  <div id="main2" style="height: 60px;width: 200px"></div>
+                  <div id="main2" style="height: 70%;width: 100%"></div>
                   <span class="sellhead"></span>&nbsp;&nbsp;<span class="sellhead">60%</span>
                 </a-card>
               </a-col>
@@ -36,7 +36,7 @@
                 <a-card :bordered="false"  style="height: 200px">
                   <span class="sellhead">当前餐厅占用率</span><br>
                   <span class="totalsell">78%</span><br>
-                  <div id="main3" style="height: 60px;width: 200px"></div>
+                  <div id="main3" style="height: 70%;width: 100%"></div>
                   <span>周同比</span>&nbsp;&nbsp;<span>12%</span>&nbsp;&nbsp;&nbsp;&nbsp;
                   <span>日环比</span>&nbsp;&nbsp;<span>11%</span>
                 </a-card>
@@ -49,7 +49,7 @@
             <span class="medium-head">本年销售额/用餐人数</span>
             <a-range-picker @change="onChange" :style="{float:'right'}"/>
             <br>
-            <div id="main4" style="height: 400px;width: 1200px" align="center"></div>
+            <div id="main4" style="height: 90%;width: 100%" align="center"></div>
           </div>
         </a-layout-content>
         <a-layout-content :style="{ margin: '16px 16px 0', overflow: 'initial'}">
@@ -83,7 +83,7 @@
         <a-layout-content :style="{ margin: '16px 16px 0', overflow: 'initial' }">
           <div :style="{ padding: '24px', background: '#fff', textAlign: 'center',height:'450px' }">
             <span class="medium-head">本年客流量</span>
-            <div id="main6" style="height: 400px;width: 1200px" align="center"></div>
+            <div id="main6" style="height: 90%;width: 100%" align="center"></div>
           </div>
         </a-layout-content>
         <a-layout-footer :style="{ textAlign: 'center' }">
@@ -96,7 +96,6 @@
 
 <script>
   import MainMenu from "../../components/mainMenu/mainMenu";
-  import "../../api/api";
   const table_data = [
     {
       rank:'1',
@@ -524,7 +523,7 @@
     font-weight: lighter;
   }
   .totalsell{
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .medium-head{

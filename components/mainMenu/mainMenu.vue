@@ -137,20 +137,26 @@
 </script>
 
 <style>
-    #components-layout-demo-fixed-sider .logo {
-        height: 48px;
-        background: #000442;
-        color: white;
-    }
-    .name{
-        font-size: 20px;
-        margin-left: 50px;
-        line-height: 48px;
+  #components-layout-demo-fixed-sider .logo {
+    height: 48px;
+    background: #000442;
+    color: white;
+  }
+  .sider-wrapper {
+    z-index: 3;
+  }
+  .header-wrapper {
+    z-index: 3;
+  }
+  .name{
+    font-size: 20px;
+    margin-left: 50px;
+    line-height: 48px;
 
-    }
-    span{
-        font-size: 12px;
-    }
+  }
+  span{
+    font-size: 12px;
+  }
 
 
 </style>

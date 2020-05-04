@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bb15a84-81b4-44cc-be11-71d95cfe7f80" name="Default Changelist" comment="" />
+    <list default="true" id="5bb15a84-81b4-44cc-be11-71d95cfe7f80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/data_analysis/fitnessAnalysis.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/data_analysis/fitnessAnalysis.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/data_analysis/goodsAnalysis.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/data_analysis/goodsAnalysis.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/data_analysis/monitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/data_analysis/monitor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/data_analysis/restaurantAnalysis.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/data_analysis/restaurantAnalysis.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/data_analysis/roomAnalysis.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/data_analysis/roomAnalysis.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monitor/elevatorMonitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monitor/elevatorMonitor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monitor/firstFloorMonitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monitor/firstFloorMonitor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monitor/fitnessMonitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monitor/fitnessMonitor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monitor/lobbyMonitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monitor/lobbyMonitor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monitor/parkingMonitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monitor/parkingMonitor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monitor/restaurantMonitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monitor/restaurantMonitor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monitor/secondFloorMonitor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monitor/secondFloorMonitor.vue" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/user_service/orderQuery.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1691">
-              <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/user_service/serviceQuery.vue">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-342">
+            <state relative-caret-position="285">
               <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
             </state>
           </provider>
@@ -47,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/mainMenu/mainMenu.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="85" column="29" lean-forward="true" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+            <state relative-caret-position="1615">
+              <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -62,69 +67,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.nuxt/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1322">
-              <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+            <state relative-caret-position="19">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/data_analysis/fitnessAnalysis.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="97" column="17" lean-forward="true" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-              <folding>
-                <element signature="n#style#0;n#a-card#0;n#a-col#0;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#519#525#0" expanded="true" />
-                <element signature="e#525#531#0" expanded="true" />
-                <element signature="e#547#553#0" expanded="true" />
-                <element signature="e#553#559#0" expanded="true" />
-                <element signature="e#559#565#0" expanded="true" />
-                <element signature="e#565#571#0" expanded="true" />
-                <element signature="e#606#612#0" expanded="true" />
-                <element signature="e#612#618#0" expanded="true" />
-                <element signature="e#719#725#0" expanded="true" />
-                <element signature="e#725#731#0" expanded="true" />
-                <element signature="n#style#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#1160#1166#0" expanded="true" />
-                <element signature="e#1166#1172#0" expanded="true" />
-                <element signature="n#style#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#1601#1607#0" expanded="true" />
-                <element signature="e#1607#1613#0" expanded="true" />
-                <element signature="n#style#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#1;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#2;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#3;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/data_analysis/goodsAnalysis.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="99" column="20" lean-forward="true" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#a-card#0;n#a-col#0;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#1;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#2;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#3968#4026#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,6 +122,9 @@
       <find>size</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -196,7 +148,6 @@
         <option value="$PROJECT_DIR$/pages/evaluate.vue" />
         <option value="$PROJECT_DIR$/pages/empCheck.vue" />
         <option value="$PROJECT_DIR$/pages/data_analysis/fitnessAnalysis.vue" />
-        <option value="$PROJECT_DIR$/pages/data_analysis/goodsAnalysis.vue" />
         <option value="$PROJECT_DIR$/pages/data_analysis/monitor.vue" />
         <option value="$PROJECT_DIR$/pages/data_analysis/restaurantAnalysis.vue" />
         <option value="$PROJECT_DIR$/pages/data_analysis/roomAnalysis.vue" />
@@ -220,21 +171,22 @@
         <option value="$PROJECT_DIR$/pages/user_service/serviceQuery.vue" />
         <option value="$PROJECT_DIR$/pages/index.vue" />
         <option value="$PROJECT_DIR$/pages/LogIn/loginWithPsw.vue" />
+        <option value="$PROJECT_DIR$/pages/data_analysis/goodsAnalysis.vue" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="565" />
     <option name="y" value="20" />
     <option name="width" value="1325" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,12 +235,25 @@
             <path>
               <item name="hotelAI" type="b2602c69:ProjectViewProjectNode" />
               <item name="hotelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="data_analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="monitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotelAI" type="462c0819:PsiDirectoryNode" />
               <item name="store" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,15 +266,16 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hotelAI\pages\monitor" />
+      <recent name="D:\hotelAI\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hotelAI\pages\data_analysis" />
+      <recent name="D:\hotelAI\pages\monitor" />
       <recent name="D:\hotelAI\pages" />
       <recent name="D:\hotelAI\components" />
       <recent name="D:\hotelAI\pages\LogIn" />
-      <recent name="D:\hotelAI\assets" />
-      <recent name="D:\hotelAI\components\mainMenu" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\hotelAI\components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -364,18 +330,19 @@
       <workItem from="1588381816672" duration="1402000" />
       <workItem from="1588383265749" duration="658000" />
       <workItem from="1588384121282" duration="271000" />
-      <workItem from="1588471632851" duration="3667000" />
+      <workItem from="1588471632851" duration="5626000" />
+      <workItem from="1588595510155" duration="226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172968000" />
+    <option name="totallyTimeSpent" value="175188000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="452" y="16" width="1060" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18295905" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2705078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -388,8 +355,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" visible="true" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4993395" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019531" side_tool="true" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49804688" visible="true" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -539,31 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#a-card#0;n#a-col#0;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#519#525#0" expanded="true" />
-            <element signature="e#525#531#0" expanded="true" />
-            <element signature="e#547#553#0" expanded="true" />
-            <element signature="e#553#559#0" expanded="true" />
-            <element signature="e#559#565#0" expanded="true" />
-            <element signature="e#565#571#0" expanded="true" />
-            <element signature="e#606#612#0" expanded="true" />
-            <element signature="e#612#618#0" expanded="true" />
-            <element signature="e#719#725#0" expanded="true" />
-            <element signature="e#725#731#0" expanded="true" />
-            <element signature="n#style#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#1160#1166#0" expanded="true" />
-            <element signature="e#1166#1172#0" expanded="true" />
-            <element signature="n#style#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#1601#1607#0" expanded="true" />
-            <element signature="n#style#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#1;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#2;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#3;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,40 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#a-card#0;n#a-col#0;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#519#525#0" expanded="true" />
-            <element signature="e#525#531#0" expanded="true" />
-            <element signature="e#547#553#0" expanded="true" />
-            <element signature="e#553#559#0" expanded="true" />
-            <element signature="e#559#565#0" expanded="true" />
-            <element signature="e#565#571#0" expanded="true" />
-            <element signature="e#606#612#0" expanded="true" />
-            <element signature="e#612#618#0" expanded="true" />
-            <element signature="e#719#725#0" expanded="true" />
-            <element signature="e#725#731#0" expanded="true" />
-            <element signature="n#style#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#1160#1166#0" expanded="true" />
-            <element signature="e#1166#1172#0" expanded="true" />
-            <element signature="n#style#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#2;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#1595#1601#0" expanded="true" />
-            <element signature="e#1601#1607#0" expanded="true" />
-            <element signature="n#style#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#3;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#2012#2018#0" expanded="true" />
-            <element signature="e#2018#2024#0" expanded="true" />
-            <element signature="e#2040#2046#0" expanded="true" />
-            <element signature="e#2046#2052#0" expanded="true" />
-            <element signature="e#2052#2058#0" expanded="true" />
-            <element signature="e#2058#2064#0" expanded="true" />
-            <element signature="e#2099#2105#0" expanded="true" />
-            <element signature="e#2105#2111#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#1;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#2;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#3;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,13 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/monitor/secondFloorMonitor.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -761,20 +662,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/LogIn/logIn.vue">
+    <entry file="file://$PROJECT_DIR$/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="38" selection-end-line="123" />
+        <state relative-caret-position="285">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/api.js">
+    <entry file="file://$PROJECT_DIR$/components/mainMenu/mainMenu.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1615">
+          <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -785,34 +683,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/mainMenu/mainMenu.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="85" column="29" lean-forward="true" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.nuxt/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1322">
-          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/data_analysis/fitnessAnalysis.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="97" column="17" lean-forward="true" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        <state relative-caret-position="1843">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#a-card#0;n#a-col#0;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#519#525#0" expanded="true" />
@@ -842,10 +716,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/LogIn/logIn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="38" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/monitor/secondFloorMonitor.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/data_analysis/goodsAnalysis.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="99" column="20" lean-forward="true" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+        <state relative-caret-position="383">
+          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#a-card#0;n#a-col#0;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#0;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -857,6 +755,16 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#a-layout-content#1;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a-card#0;n#a-col#1;n#a-row#0;n#div#0;n#a-layout-content#2;n#a-layout#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#3968#4026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.nuxt/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>

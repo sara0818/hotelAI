@@ -29,7 +29,6 @@
 
 <script>
   import MainMenu from "../../components/mainMenu/mainMenu";
-  import "../../api/api";
   export default {
     components: {
       MainMenu
@@ -92,8 +91,8 @@
 </script>
 <style scoped>
   #video{
-    height: 600px;
-    width: 800px;
+    height: 80%;
+    width: 90%;
     display: flex;
     align-items: center;
     justify-content: center;
